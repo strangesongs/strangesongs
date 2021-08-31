@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @strangesongs
 - 👀 I’m interested in ... the Internet
 - 🌱 I’m currently learning ... the Internet
-- 💞️ I’m looking to collaborate on ... anything
+- 💞️ I’m looking to collaborate on ... the Internet
 - 📫 How to reach me ... jcrtll@protonmail.com
 
 <!---
